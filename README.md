@@ -1,4 +1,4 @@
-# My-Wallet-V3-Android
+# Crypto Wallet
 
 [![CircleCI](https://circleci.com/gh/blockchain/My-Wallet-V3-Android/tree/master.svg?style=svg)](https://circleci.com/gh/blockchain/My-Wallet-V3-Android/tree/master)
 
